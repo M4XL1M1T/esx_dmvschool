@@ -5,16 +5,16 @@ Config.SpeedMultiplier = 3.6
 Config.Locale          = 'de'
 
 Config.Prices = {
-	dmv         = 10,
-	drive       = 10,
-	drive_bike  = 10,
-	drive_truck = 10
+	dmv         = 2500,
+	drive       = 3000,
+	drive_bike  = 2000,
+	drive_truck = 15000
 }
 
 Config.VehicleModels = {
-	drive       = 'cypherct',
+	drive       = 'buffalo',
 	drive_bike  = 'sanchez',
-	drive_truck = 'mule3'
+	drive_truck = 'phantom'
 }
 
 Config.SpeedLimits = {
